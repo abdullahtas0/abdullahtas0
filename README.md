@@ -195,18 +195,6 @@ class AboutMe {
 
 </div>
 
----
-
-## 🌐 Bağlantılar 
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/abdullahtas)
-[![Bionluk](https://img.shields.io/badge/Bionluk-00D9FF?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=00A8CC)](https://bionluk.com/abdullahtas71)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F)](mailto:dev.abdullahtas@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584)](https://instagram.com/0abdullahtas/)
-
-</div>
 
 ---
 
