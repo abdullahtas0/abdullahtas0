@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=abdullah017&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abdullahtas0&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -44,7 +44,7 @@ class AboutMe {
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah017&custom_title=Abdullah's%20GitHub%20Activity%20Graph%20(3D%20Style)&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area_color=2E9EF7&title_color=FFFFFF&area=true&hide_border=false&radius=16" alt="3D Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahtas0&custom_title=Abdullah's%20GitHub%20Activity%20Graph%20(3D%20Style)&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area_color=2E9EF7&title_color=FFFFFF&area=true&hide_border=false&radius=16" alt="3D Activity Graph" />
 </div>
 
 ---
@@ -53,14 +53,14 @@ class AboutMe {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah017/abdullah017/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullah017/abdullah017/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdullah017/abdullah017/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahtas0/abdullahtas0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahtas0/abdullahtas0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdullahtas0/abdullahtas0/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullah017&layout=compact&theme=tokyonight&hide_border=true&custom_title=Weekly%20Coding%20Activity" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahtas0&layout=compact&theme=tokyonight&hide_border=true&custom_title=Weekly%20Coding%20Activity" />
 </div>
 
 ---
@@ -72,11 +72,11 @@ class AboutMe {
 ## 🎨 Contribution Calendar
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah017&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=GitHub%20Stats%203D" alt="3D GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahtas0&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=GitHub%20Stats%203D" alt="3D GitHub Stats" />
 </div>
 
 <div align="center">
-  <a href="https://skyline.github.com/abdullah017/2024" target="_blank">
+  <a href="https://skyline.github.com/abdullahtas0/2024" target="_blank">
     <img src="https://img.shields.io/badge/View%203D%20Skyline-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=2E9EF7"/>
   </a>
 </div>
@@ -131,26 +131,26 @@ class AboutMe {
 
 <div align="center">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah017&theme=tokyonight" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahtas0&theme=tokyonight" width="100%" />
   
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdullah017&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117" alt="Abdullah Taş github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdullahtas0&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117" alt="Abdullah Taş github stats" /> 
   
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah017&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="Abdullah Taş streak stats"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahtas0&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="Abdullah Taş streak stats"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah017&theme=tokyonight" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahtas0&theme=tokyonight" />
   
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullah017&theme=tokyonight" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahtas0&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah017&theme=tokyonight" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahtas0&theme=tokyonight" />
   
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah017&theme=tokyonight&utcOffset=3" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahtas0&theme=tokyonight&utcOffset=3" />
 </div>
 
 ---
@@ -158,7 +158,7 @@ class AboutMe {
 ## 🏆 GitHub Trophies 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullah017&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahtas0&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -170,21 +170,21 @@ class AboutMe {
 <table>
   <tr>
     <td align="center" width="33%" style="border: none;">
-      <img src="https://github.com/abdullah017/abdullah017/assets/your-image-id/trophy-icon.gif" width="64" height="64" onerror="this.src='https://img.icons8.com/3d-fluency/94/trophy.png'" />
+      <img src="https://github.com/abdullahtas0/abdullahtas0/assets/your-image-id/trophy-icon.gif" width="64" height="64" onerror="this.src='https://img.icons8.com/3d-fluency/94/trophy.png'" />
       <br />
       <img src="https://img.shields.io/badge/23%2F23-Müşteri_Memnuniyeti-gold?style=for-the-badge&logo=star&logoColor=white" />
       <br />
       <sub><i>Bionluk Platformu</i></sub>
     </td>
     <td align="center" width="33%" style="border: none;">
-      <img src="https://github.com/abdullah017/abdullah017/assets/your-image-id/rocket-icon.gif" width="64" height="64" onerror="this.src='https://img.icons8.com/3d-fluency/94/rocket.png'" />
+      <img src="https://github.com/abdullahtas0/abdullahtas0/assets/your-image-id/rocket-icon.gif" width="64" height="64" onerror="this.src='https://img.icons8.com/3d-fluency/94/rocket.png'" />
       <br />
       <img src="https://img.shields.io/badge/15+-Tamamlanmış_Proje-blue?style=for-the-badge&logo=checkmarx&logoColor=white" />
       <br />
       <sub><i>7 Farklı Sektör</i></sub>
     </td>
     <td align="center" width="33%" style="border: none;">
-      <img src="https://github.com/abdullah017/abdullah017/assets/your-image-id/team-icon.gif" width="64" height="64" onerror="this.src='https://img.icons8.com/3d-fluency/94/conference-call.png'" />
+      <img src="https://github.com/abdullahtas0/abdullahtas0/assets/your-image-id/team-icon.gif" width="64" height="64" onerror="this.src='https://img.icons8.com/3d-fluency/94/conference-call.png'" />
       <br />
       <img src="https://img.shields.io/badge/2_Yıl-Ekip_Liderliği-green?style=for-the-badge&logo=teamspeak&logoColor=white" />
       <br />
@@ -202,7 +202,7 @@ class AboutMe {
 
 <div align="center">
   
-[![Abdullah's 3D Metrics](https://raw.githubusercontent.com/abdullah017/abdullah017/main/profile-3d-contrib/profile-night-rainbow.svg)](https://skyline.github.com/abdullah017)
+[![Abdullah's 3D Metrics](https://raw.githubusercontent.com/abdullahtas0/abdullahtas0/main/profile-3d-contrib/profile-night-rainbow.svg)](https://skyline.github.com/abdullahtas0)
 
 </div>
 
