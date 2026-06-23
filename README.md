@@ -17,7 +17,7 @@
 ```dart
 class AboutMe {
   final String name = "Abdullah Taş";
-  final String role = "Senior Flutter & Full-Stack Developer";
+  final String role = "Senior Full Stack & Mobile Developer | DevOps Engineer | Software Team Lead (Flutter / Node.js / Bun.js / DevOps)";
   final int experience = 5; // years
   final int projectsCompleted = 15;
   final double customerSatisfaction = 1.0; // 23/23 on Bionluk
@@ -31,7 +31,7 @@ class AboutMe {
     "Team Leadership & System Design"
   ];
   
-  String currentlyWorkingOn = "IWWOMI - Taxi & Healthcare Apps";
+  String currentlyWorkingOn = "IWWOMI - Freelancer";
   
   Map<String, String> reachMe = {
     "email": "dev.abdullahtas@gmail.com",
