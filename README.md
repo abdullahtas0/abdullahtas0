@@ -31,7 +31,7 @@ class AboutMe {
     "Team Leadership & System Design"
   ];
   
-  String currentlyWorkingOn = "IWWOMI - Freelancer";
+  String currentlyWorkingOn = "IWWOMI & Freelancer";
   
   Map<String, String> reachMe = {
     "email": "dev.abdullahtas@gmail.com",
