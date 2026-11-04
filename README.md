@@ -56,6 +56,7 @@ Patches in repositories I do not own.
 - **[apple/container#2412](https://github.com/apple/container/pull/2412)** — new `snapshots/` and `containers/` directories are excluded from Time Machine. An existing choice is left alone, and `volumes/` stays included. Approved, build green.
 - **[flutter/flutter#191110](https://github.com/flutter/flutter/pull/191110)** — a `FormField` that is already showing an error revalidates when the locale changes, including an error restored on the first dependency update.
 - **[oven-sh/bun#46251](https://github.com/oven-sh/bun/pull/46251)** — `Bun.udpSocket` error handlers take the failure as their only argument. The old `(socket, error)` types handed the `SystemError` to code that expected the socket.
+- **[apple/containerization#972](https://github.com/apple/containerization/pull/972)** — host `HTTP_PROXY`, `HTTPS_PROXY`, and `NO_PROXY` reach the Linux dev image build and later `container run`, in either spelling. Empty values are left out. `scripts/check-proxy-forwarding.sh` covers the unset case that used to recurse in make.
 
 <br>
 
