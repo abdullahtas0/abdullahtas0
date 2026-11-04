@@ -48,7 +48,18 @@ I lead software teams and ship end to end from Türkiye. If I put something into
 
 <br>
 
-## 02 / FIELD FIXES SHIPPED
+## 02 / UPSTREAM
+
+Patches in repositories I do not own.
+
+- **[flutter/packages#12470](https://github.com/flutter/packages/pull/12470)** — `MenuAnchor` scrollbar padding respects the safe area. Merged, 22 Oct 2026.
+- **[apple/container#2412](https://github.com/apple/container/pull/2412)** — new `snapshots/` and `containers/` directories are excluded from Time Machine. An existing choice is left alone, and `volumes/` stays included. Approved, build green.
+- **[flutter/flutter#191110](https://github.com/flutter/flutter/pull/191110)** — a `FormField` that is already showing an error revalidates when the locale changes, including an error restored on the first dependency update.
+- **[oven-sh/bun#46251](https://github.com/oven-sh/bun/pull/46251)** — `Bun.udpSocket` error handlers take the failure as their only argument. The old `(socket, error)` types handed the `SystemError` to code that expected the socket.
+
+<br>
+
+## 03 / FIELD FIXES SHIPPED
 
 These are not portfolio props. They are reusable answers to problems that showed up in real engineering work.
 
@@ -104,7 +115,7 @@ These are not portfolio props. They are reusable answers to problems that showed
 
 <br>
 
-## 03 / LEAVE THE SYSTEM BETTER DOCUMENTED
+## 04 / LEAVE THE SYSTEM BETTER DOCUMENTED
 
 I write the **Turkish Flutter engineering material I wish existed when I started** — usually after learning the sharp edge in production first.
 
@@ -112,13 +123,11 @@ I write the **Turkish Flutter engineering material I wish existed when I started
 - **Architecture autopsies** — sealed classes, HydratedBloc, server-driven UI, and scaling BLoC without regret.
 - **Platform field notes** — Android 16 KB page-size migration, Maestro E2E, and the details release notes skip.
 
-Recent upstream submissions include a [locale-aware `FormField` fix](https://github.com/flutter/flutter/pull/191110) in Flutter and [safe-area handling for `MenuAnchor`](https://github.com/flutter/packages/pull/12470) in Flutter Packages.
-
 **Read the long-form notes:** [Medium](https://medium.com/@abdullahtas) · [LinkedIn](https://www.linkedin.com/in/abdullahtas/)
 
 <br>
 
-## 04 / CURRENT WORK ORDER
+## 05 / CURRENT WORK ORDER
 
 > **BUILDING /** self-hosted developer tooling and multi-tenant platforms on infrastructure I own.
 >
